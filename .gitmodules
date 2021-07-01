@@ -1,0 +1,6 @@
+[submodule "mcl_ros"]
+	path = mcl_ros
+	url = https://github.com/dotstudio01/mcl_ros.git
+[submodule "LandmarkNet"]
+	path = LandmarkNet
+	url = https://github.com/dotstudio01/LandmarkNet.git
